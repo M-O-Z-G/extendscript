@@ -3,6 +3,8 @@ Image to Binary Converter
 
 Display the result of conversation image file to binary. This is an early version that has not been sufficiently tested. Use at your own risks.
 
+![alt text](http://i.imgur.com/vS4FzrT.png "Image to Binary Converter")
+
 #Usage
 Just run script from any supporting Adobe application.
 
